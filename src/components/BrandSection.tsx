@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 
 const brands = ['IA Mining', 'Startups', 'Flask Dev', 'React Dev'];
 

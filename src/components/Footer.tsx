@@ -13,7 +13,7 @@ const Footer = () => (
         <div className="flex space-x-6">
           <a href="https://linkedin.com/in/NicoDev91" className="text-gray-400 hover:text-white transition-colors" target="_blank">LinkedIn</a>
           <a href="mailto:nicolas.sebastiano3@gmail.com" className="text-gray-400 hover:text-white transition-colors">Email</a>
-          <a href="https://nico91dev.pythonanywhere.com/" className="text-gray-400 hover:text-white transition-colors" target="_blank">Portafolio</a>
+          
         </div>
       </div>
       <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">

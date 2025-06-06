@@ -22,7 +22,7 @@ const HeroSection = () => (
           Soy Nicolás Espinosa, técnico en informático y apasionado por la tecnología, con más de 2 años de experiencia en el desarrollo de aplicaciones de escritorio y web modernas utilizando Python, Flask, Django, React y TypeScript. Me especializo en crear soluciones digitales funcionales, escalables y con un diseño centrado en el usuario.
           </p>
 
-          <a href="/curriculum.pdf" download className="group inline-flex items-center space-x-2 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-8 py-4 rounded-full font-semibold hover:shadow-xl transition-all duration-300 transform hover:scale-105">
+          <a href="/cv-nicolas-espinosa.pdf" download className="group inline-flex items-center space-x-2 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-8 py-4 rounded-full font-semibold hover:shadow-xl transition-all duration-300 transform hover:scale-105">
             <span className="text-white">Descargar CV</span>
             <ArrowRight className="w-5 h-5 text-white group-hover:translate-x-1 transition-transform" />
           </a>
